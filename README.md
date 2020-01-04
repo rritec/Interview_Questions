@@ -2,7 +2,7 @@
 
 fork this repository 
 
-git clone https://github.com/<username>/Interview_Questions.git
+git clone https://github.com/<<yourusername>>/Interview_Questions.git
 
 cd Interview_Questions/
 
