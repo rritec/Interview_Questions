@@ -1,6 +1,8 @@
 # Interview Questions
 
-git clone https://github.com/mylaramreddyai/Interview_Questions.git
+fork this repository 
+
+git clone https://github.com/<username>/Interview_Questions.git
 
 cd Interview_Questions/
 
