@@ -20,5 +20,5 @@ git commit -m "your comment"
 
 git push
 
-go to github raise pull request
+go to your github website raise pull request
 
